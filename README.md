@@ -8,11 +8,14 @@ Usage
 
 1. Install dependencies:
 
-    $ composer install
+        $ composer install
 
 2. Run the executable
 
-    $ ./fakr
+        $ ./fakr
+        Full Name: Dudley Kuhic
+        Username:  mmertz
+
 
 > You may need to chmod **fakr** to make it executable.
 
