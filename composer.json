@@ -1,0 +1,9 @@
+{
+    "require": {
+        "fzaninotto/faker": "*",
+        "pear/Console_Color2": "*"
+    },
+    "autoload": {
+        "files": ["helpers.php"]
+    }
+}
